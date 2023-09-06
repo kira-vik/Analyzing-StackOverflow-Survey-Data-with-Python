@@ -1,5 +1,8 @@
 # Analyzing StackOverflow Survey Data with Python
 ## Overview
+
+![istockphoto-680735792-612x612](https://github.com/kira-vik/Analyzing-StackOverflow-Survey-Data-with-Python/assets/35596661/1680874b-d07f-456b-b854-d2547d01a537)
+
 This is a simple practice project aimed at gaining insight into data analysis with Python. 
 The dataset used was obtained from [here](https://insights.stackoverflow.com/survey), dated 2019. 
 
@@ -31,5 +34,3 @@ Victor Weke - @[kira-vik](https://github.com/kira-vik)
 Copyright © 2022, Victor Weke.
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
-![istockphoto-680735792-612x612](https://github.com/kira-vik/Analyzing-StackOverflow-Survey-Data-with-Python/assets/35596661/1680874b-d07f-456b-b854-d2547d01a537)
