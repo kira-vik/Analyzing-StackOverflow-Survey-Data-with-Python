@@ -1,9 +1,9 @@
 # Analyzing StackOverflow Survey Data with Python
 ## Overview
-This is a simple practice project aimed at gaining insight on data analysis with Python. 
+This is a simple practice project aimed at gaining insight into data analysis with Python. 
 The dataset used was obtained from [here](https://insights.stackoverflow.com/survey), dated 2019. 
 
-This project was developed in VS Code, but it is totally ok to use your editor of choice. 
+This project was developed in VS Code, but it is totally okay to use your editor of choice. 
 
 
 ## Technologies
