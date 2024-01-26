@@ -31,6 +31,6 @@ Victor Weke - @[kira-vik](https://github.com/kira-vik)
 
 
 ## License
-Copyright © 2023, Victor Weke.
+Copyright © 2024, Victor Weke.
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
